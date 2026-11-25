@@ -1,6 +1,6 @@
-# 📚 MSBTE 5th Semester Notes — K-Scheme (CO / IT)
+# 📚 MSBTE 5th Semester Notes — K-Scheme (IT)
 
-> **An interactive, exam-focused Obsidian Knowledge Vault for MSBTE Diploma 5th Semester (Computer Engineering & Information Technology — K-Scheme).**
+> **An interactive, exam-focused Obsidian Knowledge Vault for MSBTE Diploma 5th Semester (Information Technology — K-Scheme).**
 
 [![Board](https://img.shields.io/badge/Board-MSBTE%20Diploma-blue?style=flat-square)](#)
 [![Scheme](https://img.shields.io/badge/Scheme-K--Scheme%20(5th%20Sem)-informational?style=flat-square)](#)
@@ -201,7 +201,7 @@ Don't want to install Obsidian? You can still study everything right here in you
 
 ## 📝 Notes & Disclaimers
 
-- **Curriculum Alignment:** Tailored to the **MSBTE K-Scheme 5th Semester (CO / IT)** syllabus (`315319`, `315332`, `315324`) and audited against **W25** and **S26** question papers. Always cross-check with the latest official MSBTE syllabus and your college faculty guidelines.
+- **Curriculum Alignment:** Tailored to the **MSBTE K-Scheme 5th Semester (IT)** syllabus (`315319`, `315332`, `315324`) and audited against **W25** and **S26** question papers. Always cross-check with the latest official MSBTE syllabus and your college faculty guidelines.
 - **Student-Created Resource:** These are personal exam-preparation notes enhanced with structured summaries and diagrams. Please report any mistakes or outdated answers via an Issue or Pull Request!
 - **Known Vault Quirks:**
   - The folder `Operating System/Refernces/` intentionally keeps its original spelling so internal vault links don't break (and includes an `ADM Question Paper by Campusify` subfolder from combined exam prep).
