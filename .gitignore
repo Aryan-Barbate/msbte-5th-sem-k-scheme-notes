@@ -1,0 +1,22 @@
+# Private / personal notes & guides
+NEXT_SEMESTER_NOTES_MASTER_GUIDE.md
+
+# Personal Obsidian sync config (contains local paths & personal repo URL)
+.obsidian/plugins/github-sync/data.json
+
+# Large plugin binary (~21.5 MB) — users can install/update Harper via Obsidian Community Plugins
+.obsidian/plugins/harper/main.js
+
+# Personal Obsidian workspace state (open tabs, window layout, mobile state)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Raw archive & OS clutter
+5th Sem-Notes.zip
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Optional: uncomment if you want to exclude the nested mobile zip or large reference textbook PDF
+# ADMS_Mobile_Obsidian_Vault.zip
+# Software Engineering and Testing/Reference/CS605-Software Engineering Practitioner’s Approach  by Roger S. Pressman (7th Edition).pdf
